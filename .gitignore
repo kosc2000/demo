@@ -25,7 +25,8 @@ hs_err_pid*
 # mac dir
 .DS_Store
 
-# ider dir
+# ider dir or files
 .idea
+*.iml
 
 target/
